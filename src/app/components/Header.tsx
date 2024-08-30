@@ -11,17 +11,17 @@ const Header: React.FC = () => {
             }}
         >
             <div className="text-white">
-                <h2 className='text-4xl font-medium mt-8 mb-16'>Crumbs</h2>
-                <p className='text-lg mt-8'>Crumbs is the first Social Funding Network </p>
+                <h2 className='text-xl font-medium mt-2'>Crumbs</h2>
+                <p className='text-sm mt-1'>Crumbs is the first Social Funding Network </p>
             </div>
             <div className="text-white p-4">
-                <h1 className="text-4xl md:text-4xl font-medium mb-0 tracking-wide">Launching</h1>
-                <h1 className="text-8xl md:text-8xl font-black mb-0 tracking-wider"><span className='text-9xl md:text-9xl'>S</span>OON</h1>
-                <p className='text-3xl font-normal mt-0'>Stay Tuned!</p>
-                <p className="text-lg md:text-2xl mx-4 my-12 text-center">
+                <h1 className="text-base md:text-base font-medium mb-0 tracking-simple">Launching</h1>
+                <h1 className="text-3xl md:text-3xl font-black mb-0 tracking-wider"><span className='text-4xl md:text-4xl'>S</span>OON</h1>
+                <p className='text-sm font-normal mt-0'>Stay Tuned!</p>
+                <p className="text-sm md:text-sm mx-4 my-2 text-center">
                     <strong>A win-win situation</strong>, we are developing an evolved crowdfunding platform that takes advantage of the growing online social media economy and creating a community of entrepreneurs and investors who want to help each other.
                 </p>
-                <p className="text-lg md:text-2xl mx-4 text-center mb-16">
+                <p className="text-sm md:text-sm mx-4 text-center mb-0">
                     We combine social media with investing in order to bring a modern feel to the investment industry. Our platform is designed to simplify the investment process for everyday investors while also fostering a social atmosphere that encourages users to engage with each other throughout their investment journey.
                 </p>
             </div>
