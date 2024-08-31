@@ -55,7 +55,7 @@ const Footer: React.FC = () => {
                     placeholder="Email Address"
                     value={email}
                     onChange={handleEmailChange}
-                    className="flex-grow bg-transparent text-zinc-400 placeholder-zinc-500 focus:outline-none"
+                    className="flex-grow bg-transparent text-zinc-400 placeholder-zinc-500 focus:outline-none" required
                 />
                 <button
                     type="submit"
