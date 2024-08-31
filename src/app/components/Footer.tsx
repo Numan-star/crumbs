@@ -38,7 +38,7 @@ const Footer: React.FC = () => {
             {/* Heading Section */}
             <div className="text-white">
                 <h2 className="text-xl md:text-xl font-bold mb-1 tracking-wide">Join Our Waiting List</h2>
-                <p className="text-sm md:textsm" style={{ color: "#FFFFFF99" }}>
+                <p className="text-sm md:text-sm" style={{ color: "#FFFFFF99" }}>
                     Stay tuned and join our waiting list to get further updates about us
                 </p>
             </div>

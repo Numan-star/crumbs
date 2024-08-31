@@ -1,4 +1,4 @@
-'use clint'
+'use client'
 import React from 'react';
 
 // Make sure to replace 'your-image-path.jpg' with the actual path to your image
