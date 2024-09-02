@@ -12,7 +12,7 @@ const Header: React.FC = () => {
         >
             <div className="text-white">
                 <h2 className='text-xl font-medium mt-2'>Crumbs</h2>
-                <p className='text-sm mt-1'>Crumbs is the first Social Funding Network </p>
+                <p className='text-sm mt-1'>The Social Funding Network</p>
             </div>
             <div className="text-white p-4">
                 <h1 className="text-base md:text-base font-medium mb-0 tracking-simple">Launching</h1>
